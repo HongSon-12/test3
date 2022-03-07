@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.sourceDirectory": "${workspaceFolder}/Note_Time/windows/flutter"
+}
